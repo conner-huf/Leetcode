@@ -27,6 +27,7 @@ class Solution:
     Time Complexity: 0(nlogn)
     Space Complexity: 0(1)
     '''
+    
     def containsDuplicate_Sort(self, nums: List[int]) -> bool:
         sortedNums = sorted(nums)
         for i in sortedNums:
