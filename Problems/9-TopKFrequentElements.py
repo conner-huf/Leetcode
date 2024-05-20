@@ -6,8 +6,6 @@ from typing import List
 
 class Solution:
 
-# -------------------------------------------------------------------- #
-
     '''
     This solution uses a dictionary to count the frequency of each element in the input list. We then create a list of lists, where each list at index i contains the elements that appear i times in the input list. We iterate through this list of lists in reverse order, adding the elements to the result list until we have k elements. We return the result list when we have k elements.
     '''
