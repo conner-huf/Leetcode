@@ -1,3 +1,6 @@
+
+#url: https://leetcode.com/problems/alternating-groups-i/
+
 '''
 From contest:
 

@@ -1,3 +1,5 @@
+# url: https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
+
 '''
 
 from contest:

@@ -1,3 +1,6 @@
+
+# url: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
+
 '''
 
 from contest:
